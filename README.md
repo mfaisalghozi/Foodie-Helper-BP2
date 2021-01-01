@@ -1,4 +1,4 @@
-## 🍣 Foodie Helper
+# 🍣 Foodie Helper
 
 This Web created as part of college assignment, all source code is open source, feel free to contribute.
 
