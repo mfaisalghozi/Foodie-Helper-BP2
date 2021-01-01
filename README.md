@@ -26,6 +26,6 @@ In the project directory, please run :
 -   `php artisan migrate`
 -   `php artisan db:seed`
 
-## How to contribute ?
+## How to contribute
 
 first time ? please consider to check this [guide](https://github.com/zero-to-mastery/start-here-guidelines)
