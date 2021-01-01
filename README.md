@@ -10,11 +10,11 @@ Foodie Helper is all in one app. Wrapping everything about food, from Food Blogg
 
 We using Laravel as PHP Framework to connecting Backend and FrontEnd Stuff. Also we use Bootstrap & TailwindCSS as CSS Framework to speed up our UI development process. For Backend we using MySQl as Database.
 
-## Running Instruction
+## 🧻 Running Instruction
 
 In the project directory, please run :
 
-### 🧻 Required Command
+### Required Command
 
 -   `composer install`
 -   `npm install` or `yarn install`
