@@ -1,4 +1,4 @@
-## Foodie Helper
+## 🍣 Foodie Helper
 
 This Web created as part of college assignment, all source code is open source, feel free to contribute.
 
@@ -14,7 +14,7 @@ We using Laravel as PHP Framework to connecting Backend and FrontEnd Stuff. Also
 
 In the project directory, please run :
 
-### Required Command
+### 🧻 Required Command
 
 -   `composer install`
 -   `npm install` or `yarn install`
@@ -26,6 +26,6 @@ In the project directory, please run :
 -   `php artisan migrate`
 -   `php artisan db:seed`
 
-## How to contribute
+## ❓ How to contribute
 
 first time ? please consider to check this [guide](https://github.com/zero-to-mastery/start-here-guidelines)
