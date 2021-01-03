@@ -42,64 +42,64 @@
     <div class="col-lg-8">
         <div class="row p-2 mt-4">
             <div class="col-lg-4 p-2">
-                <div class="card shadow p-3 mb-5 bg-white rounded">
+                <div class="card p-3 mb-5 bg-white rounded kotak">
                     <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Restaurant</h4>
+                        <h4 class="card-title">Restaurant 1</h4>
                         <p class="card-text">Text</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 p-2">
-                <div class="card shadow p-3 mb-5 bg-white rounded">
+                <div class="card p-3 mb-5 bg-white rounded kotak">
                     <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Restaurant</h4>
+                        <h4 class="card-title">Restaurant 1</h4>
                         <p class="card-text">Text</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 p-2">
-                <div class="card shadow p-3 mb-5 bg-white rounded">
+                <div class="card p-3 mb-5 bg-white rounded kotak">
                     <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Restaurant</h4>
+                        <h4 class="card-title">Restaurant 1</h4>
                         <p class="card-text">Text</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 p-2">
-                <div class="card shadow p-3 mb-5 bg-white rounded">
+                <div class="card p-3 mb-5 bg-white rounded kotak">
                     <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Restaurant</h4>
+                        <h4 class="card-title">Restaurant 1</h4>
                         <p class="card-text">Text</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 p-2">
-                <div class="card shadow p-3 mb-5 bg-white rounded">
+                <div class="card p-3 mb-5 bg-white rounded kotak">
                     <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Restaurant</h4>
+                        <h4 class="card-title">Restaurant 1</h4>
                         <p class="card-text">Text</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 p-2">
-                <div class="card shadow p-3 mb-5 bg-white rounded">
+                <div class="card p-3 mb-5 bg-white rounded kotak">
                     <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Restaurant</h4>
+                        <h4 class="card-title">Restaurant 1</h4>
                         <p class="card-text">Text</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 p-2">
-                <div class="card shadow p-3 mb-5 bg-white rounded">
+                <div class="card p-3 mb-5 bg-white rounded kotak">
                     <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
                     <div class="card-body">
-                        <h4 class="card-title">Restaurant</h4>
+                        <h4 class="card-title">Restaurant 1</h4>
                         <p class="card-text">Text</p>
                     </div>
                 </div>

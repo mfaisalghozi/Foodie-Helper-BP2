@@ -57,3 +57,12 @@
 .navigasi a{
     text-decoration : none;
 }
+
+.kotak{
+    transition: box-shadow .3s;
+}
+
+.kotak:hover {
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+    border: 2px solid rgba(0, 0, 0, 0.175);
+}

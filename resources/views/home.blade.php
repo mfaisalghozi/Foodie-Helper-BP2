@@ -21,7 +21,7 @@
             <img src="/images/2 SCENE.svg" alt="illustration-image-restaurant" height="800" width="800">
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-around d-block px-5" style="height: 50%">
-            <h1 class="display-3 text-center app-title-info">What is FoodieHelper ?</h1>
+            <h1 class="display-3 text-center app-title-info">What is FoodieHelper</h1>
             <p class="lead app-desc-info align-self-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur vel, quidem unde maiores ipsa ipsum odit molestias obcaecati, blanditiis dolore iure repellat excepturi asperiores. Reiciendis sunt voluptatibus et praesentium nihil.!</p>
         </div>
     </div>
