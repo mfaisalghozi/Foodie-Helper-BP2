@@ -44,7 +44,7 @@
                     <img src="/images/5 SCENE.svg" alt="illustration-image-restaurant" style="height: 100%;width:100%;">
                 </div>
                 <div class="info d-flex flex-column">
-                    <h4 class="info-title text-center font-weight-bold" style="color: #ffd56b;">Food Delivery</h4>
+                    <h4 class="info-title text-center font-weight-bold" style="color: #ffd56b;">Easy Process</h4>
                     <p class="mx-5 font-weight-light text-dark font-italic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia unde minus provident excepturi adipisci eaque ullam ratione !</p>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                     <img src="/images/6 SCENE.svg" alt="illustration-image-restaurant" style="height: 100%;width:100%;">
                 </div>
                 <div class="info d-flex flex-column">
-                    <h4 class="info-title text-center font-weight-bold" style="color: #9ad3bc;">Fast Payment</h4>
+                    <h4 class="info-title text-center font-weight-bold" style="color: #9ad3bc;">No More Waiting</h4>
                     <p class="mx-5 font-weight-light text-dark font-italic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia unde minus provident excepturi adipisci eaque ullam ratione !</p>
                 </div>
             </div>
@@ -62,8 +62,8 @@
 </div>
 <div class="bg-white py-4" style="height:100vh;">
     <div class="row d-flex align-items-center justify-content-center h-100">
-        <div class="col-lg-6 d-flex flex-column justify-content-around d-block px-5" style="height: 50%">
-            <h1 class="display-3 text-center app-title-info">All need in One App</h1>
+        <div class="col-lg-6 d-flex flex-column justify-content-around align-items-center d-block px-5" style="height: 50%">
+            <h1 class="display-3 text-center app-title-info w-75">Find The Best Restaurant In Town</h1>
             <p class="lead app-desc-info align-self-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur vel, quidem unde maiores ipsa ipsum odit molestias obcaecati, blanditiis dolore iure repellat excepturi asperiores. Reiciendis sunt voluptatibus et praesentium nihil.!</p>
         </div>
         <div class="col-lg-6  d-flex justify-content-center">
@@ -90,7 +90,7 @@
                     <img src="/images/1_SCENE.svg" alt="illustration-image-restaurant" style="height: 100%;width:100%;">
                 </div>
                 <div class="info d-flex flex-column">
-                    <h4 class="info-title text-center font-weight-bold" style="color: #f5b461;">Online Seat Reservation</h4>
+                    <h4 class="info-title text-center font-weight-bold" style="color: #f5b461;">Restaurant Reference</h4>
                     <p class="mx-5 font-weight-light text-dark font-italic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia unde minus provident excepturi adipisci eaque ullam ratione !</p>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                     <img src="/images/9 SCENE.svg" alt="illustration-image-restaurant" style="height: 100%;width:100%;">
                 </div>
                 <div class="info d-flex flex-column">
-                    <h4 class="info-title text-center font-weight-bold" style="color: #ffd56b;">Food Delivery</h4>
+                    <h4 class="info-title text-center font-weight-bold" style="color: #ffd56b;">Meet & Eat Together</h4>
                     <p class="mx-5 font-weight-light text-dark font-italic">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia unde minus provident excepturi adipisci eaque ullam ratione !</p>
                 </div>
             </div>

@@ -30,4 +30,8 @@ class HomeController extends Controller
         return view('DeliveryForm');
     }
 
+    public function restaurant(){
+        return view('restaurant');
+    }
+
 }

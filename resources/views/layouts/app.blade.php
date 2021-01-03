@@ -17,8 +17,12 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
+    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+
     <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/style.css') }}" rel="stylesheet">
+
 
     {{-- Google Fonts --}}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -54,7 +58,7 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav justify-content-center w-100">
                         <li class="nav-item navigasi mx-2">
-                            <a class="navigasi-item" href="#">{{ __('Restaurant') }}</a>
+                            <a class="navigasi-item" href="/restaurant">{{ __('Restaurant') }}</a>
                         </li>
                         <li class="nav-item navigasi mx-2">
                             <a class="navigasi-item" href="#">{{ __('Blog') }}</a>
