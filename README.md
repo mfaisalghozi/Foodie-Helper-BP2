@@ -12,6 +12,17 @@ Foodie Helper is all in one app. Wrapping everything about food, from Food Blogg
 
 We using Laravel as PHP Framework to connecting Backend and FrontEnd Stuff. Also we use Bootstrap & TailwindCSS as CSS Framework to speed up our UI development process. For Backend we using MySQl as Database.
 
+### Production Status
+
+-   ✔️ BrainStorming Idea Collection
+-   ✔️ Design & Prototype
+-   🚧 Developing
+-   ✔️ Deploying
+
+### Live Website
+
+You can see live website of [FoodieHelper](http://foodiehelper.herokuapp.com/)
+
 ## 🧻 Running Instruction
 
 In the project directory, please run :
@@ -35,6 +46,6 @@ first time ? please consider to check this [guide](https://github.com/zero-to-ma
 ### Contributor List
 
 -   (FE) LandingPage : M Faisal Ghozi
--   (FE) DeliveryForm : Brellian Jordi
+-   (FE) DeliveryForm & Web Design : Brellian Jordi
 
 **Note: please format `(category) workresult : yourname`**
