@@ -32,7 +32,7 @@ first time ? please consider to check this [guide](https://github.com/zero-to-ma
 
 ### Contributor List (free to add your own name)
 
--   LandingPage : M Faisal Ghozi
--   DeliveryForm : Brellian Jordi
+-   (FE) LandingPage : M Faisal Ghozi
+-   (FE) DeliveryForm : Brellian Jordi
 
 **Note: please format `pagename : yourname`**
