@@ -2,6 +2,8 @@
 
 This Web created as part of college assignment, all source code is open source, feel free to contribute.
 
+![Preview](https://i.imgur.com/zQ8qfzM.jpg)
+
 ### Description
 
 Foodie Helper is all in one app. Wrapping everything about food, from Food Blogging, Restaurant Review, Delivery Food, and our best feature is Seat Booking For Restaurant.
