@@ -30,7 +30,7 @@ In the project directory, please run :
 
 first time ? please consider to check this [guide](https://github.com/zero-to-mastery/start-here-guidelines)
 
-### Contributor List (free to add your own name)
+### Contributor List
 
 -   (FE) LandingPage : M Faisal Ghozi
 -   (FE) DeliveryForm : Brellian Jordi
