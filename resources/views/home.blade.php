@@ -1,25 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-{{-- <div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="card-header">{{ __('Dashboard') }}</div>
-
-                <div class="card-body">
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-
-                    {{ __('You are logged in!') }}
-                </div>
-            </div>
-        </div>
-    </div>
-</div> --}}
 
 <div class="bg-white py-4" style="max-height:100vh">
         <div class="row d-flex align-items-center justify-content-center h-75">
@@ -159,8 +140,8 @@
                     <div class="d-flex justify-content-end align-items-center">
                         <a href="#" class="mr-3"><i class="fa fa-facebook" style="font-size:24px"></i></a>
                         <a href="#" class="mr-3"><i class="fa fa-twitter" style="font-size:24px"></i></a>
-                        <a href="#"><i class="fa fa-instagram" style="font-size:24px"></i></a>
-                        <a href="#"><i class="fa fa-github" style="font-size:24px"></i></a>
+                        <a href="#" class="mr-3"><i class="fa fa-instagram" style="font-size:24px"></i></a>
+                        <a href="https://github.com/mfaisalghozi" target="blank"><i class="fa fa-github" style="font-size:24px"></i></a>
                     </div>
                 </div>
             </div>
