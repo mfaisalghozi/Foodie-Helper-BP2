@@ -30,9 +30,9 @@ In the project directory, please run :
 
 first time ? please consider to check this [guide](https://github.com/zero-to-mastery/start-here-guidelines)
 
-## Contributor List (free to add your own name)
+### Contributor List (free to add your own name)
 
 -   LandingPage : M Faisal Ghozi
 -   DeliveryForm : Brellian Jordi
 
-**note: please format `pagename : yourname`**
+**Note: please format `pagename : yourname`**
