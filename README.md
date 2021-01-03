@@ -35,4 +35,4 @@ first time ? please consider to check this [guide](https://github.com/zero-to-ma
 -   (FE) LandingPage : M Faisal Ghozi
 -   (FE) DeliveryForm : Brellian Jordi
 
-**Note: please format `pagename : yourname`**
+**Note: please format `(category) workresult : yourname`**
