@@ -45,7 +45,7 @@ first time ? please consider to check this [guide](https://github.com/zero-to-ma
 
 ### Contributor List
 
--   (FE) LandingPage : M Faisal Ghozi
+-   (FE) LandingPage,RestaurantPage : M Faisal Ghozi
 -   (FE) DeliveryForm & Web Design : Brellian Jordi
 
 **Note: please format `(category) workresult : yourname`**
