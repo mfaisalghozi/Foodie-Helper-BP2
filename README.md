@@ -46,6 +46,6 @@ first time ? please consider to check this [guide](https://github.com/zero-to-ma
 ### Contributor List
 
 -   (FE) LandingPage,RestaurantPage : M Faisal Ghozi
--   (FE) DeliveryForm & Web Design : Brellian Jordi
+-   (FE) DeliveryForm : Brellian Jordi
 
-**Note: please format `(category) workresult : yourname`**
+**Note: please PR with format `(category) workresult : yourname`**
