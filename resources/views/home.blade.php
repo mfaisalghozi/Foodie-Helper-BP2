@@ -104,7 +104,7 @@
                 </div>
             </div>
             <div class="text-center d-flex align-items-center" style="height: 500px;width:450px">
-                <h1 class="display-4 title-section-info">Feel The Taste. Enjoy The Food.</h1>
+                <h1 class="display-4 title-section-info">Feel The Taste & Enjoy The Food.</h1>
                 </div>
             </div>
         </div>
