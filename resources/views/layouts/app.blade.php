@@ -61,7 +61,7 @@
                             <a class="navigasi-item" href="/restaurant">{{ __('Restaurant') }}</a>
                         </li>
                         <li class="nav-item navigasi mx-2">
-                            <a class="navigasi-item" href="#">{{ __('Blog') }}</a>
+                            <a class="navigasi-item" href="/blog">{{ __('Blog') }}</a>
                         </li>
                         <li class="nav-item navigasi mx-2">
                             <a class="navigasi-item" href="/delivery">{{ __('Delivery') }}</a>

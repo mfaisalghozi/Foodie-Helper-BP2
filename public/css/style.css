@@ -66,3 +66,61 @@
     box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
     border: 2px solid rgba(0, 0, 0, 0.175);
 }
+
+.title-custom{
+    font-family: 'Pacifico', cursive;
+    font-size: 8em;
+    color: red;
+}
+
+.bg-custom{
+    background-image: url("https://www.fairmont.com/assets/0/104/1029/1034/5662/5663/eeb3f718-4d69-477d-8844-8789e1a4a7f8.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    /* filter: brightness(80%); */
+}
+
+.post-preview > a {
+    color: #212529;
+  }
+  
+  .post-preview > a:focus, .post-preview > a:hover {
+    text-decoration: none;
+    color: #0085A1;
+  }
+  
+  .post-preview > a > .post-title {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .post-preview > a > .post-subtitle {
+    font-weight: 300;
+    margin: 0 0 10px;
+  }
+  
+  .post-preview > .post-meta {
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 0;
+    color: #868e96;
+  }
+  
+  .post-preview > .post-meta > a {
+    text-decoration: none;
+    color: #212529;
+  }
+  
+  .post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
+    text-decoration: underline;
+    color: #0085A1;
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .post-preview > a > .post-title {
+      font-size: 36px;
+    }
+  }

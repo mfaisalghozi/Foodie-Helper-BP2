@@ -19,4 +19,5 @@ Route::get('/', 'HomeController@index');
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/restaurant', 'HomeController@restaurant');
 Route::get('/delivery', 'HomeController@delivery');
+Route::get('/blog', 'HomeController@blog');
 

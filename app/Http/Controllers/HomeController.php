@@ -34,4 +34,8 @@ class HomeController extends Controller
         return view('restaurant');
     }
 
+    public function blog(){
+        return view('blog');
+    }
+
 }
