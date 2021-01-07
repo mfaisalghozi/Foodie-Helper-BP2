@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class HomeController extends Controller
 {
@@ -27,7 +28,11 @@ class HomeController extends Controller
     }
 
     public function delivery(){
-        return view('DeliveryForm');
+        if(Auth::check()){
+            return view('DeliveryForm');
+        }else{
+            return redirect('/login');
+        }
     }
 
     public function restaurant(){
@@ -36,6 +41,10 @@ class HomeController extends Controller
 
     public function blog(){
         return view('blog');
+    }
+
+    public function restaurantDetail(){
+        return view('RestaurantDetail');
     }
 
 }

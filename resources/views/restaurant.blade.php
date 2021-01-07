@@ -43,13 +43,15 @@
         <div class="row p-2 mt-4">
             @for($rep=1;$rep<=10;$rep++)
             <div class="col-lg-4 p-2">
-                <div class="card p-3 mb-5 bg-white rounded kotak">
-                    <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
-                    <div class="card-body">
-                        <h4 class="card-title">Restaurant {{$rep}}</h4>
-                        <p class="card-text">Text ke {{$rep}}</p>
+                <a href="/restaurant/detail" style="text-decoration: none;">
+                    <div class="card p-3 mb-5 bg-white rounded kotak">
+                        <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
+                        <div class="card-body text-dark">
+                            <h4 class="card-title">Restaurant {{$rep}}</h4>
+                            <p class="card-text">Text ke {{$rep}}</p>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
             @endfor
         </div>

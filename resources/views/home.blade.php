@@ -1,7 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-
 <div class="bg-white py-4" style="max-height:100vh">
         <div class="row d-flex align-items-center justify-content-center h-75">
             <div class="col-lg-6">
