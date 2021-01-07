@@ -28,11 +28,7 @@ class HomeController extends Controller
     }
 
     public function delivery(){
-        if(Auth::check()){
-            return view('DeliveryForm');
-        }else{
-            return redirect('/login');
-        }
+        return view('DeliveryForm');
     }
 
     public function restaurant(){
