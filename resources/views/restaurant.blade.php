@@ -48,7 +48,7 @@
                         <img class="card-img-top" src="/images/1_SCENE.svg" alt="">
                         <div class="card-body text-dark">
                             <h4 class="card-title">Restaurant {{$rep}}</h4>
-                            <p class="card-text">Text ke {{$rep}}</p>
+                            <p class="card-text">Text Number {{$rep}}</p>
                         </div>
                     </div>
                 </a>

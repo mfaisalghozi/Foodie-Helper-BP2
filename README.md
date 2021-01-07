@@ -16,7 +16,7 @@ We using Laravel as PHP Framework to connecting Backend and FrontEnd Stuff. Also
 
 -   ✔️ BrainStorming Idea Collection
 -   ✔️ Design & Prototype
--   🚧 Developing
+-   ✔️ Developing
 -   ✔️ Deploying
 
 ### Live Website
