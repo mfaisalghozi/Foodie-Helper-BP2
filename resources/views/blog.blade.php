@@ -37,7 +37,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="post-preview">
-          <a href="post.html">
+          <a href="">
               <div class="row">
                 <div class="col-lg-2">
                     <img src="https://i.pinimg.com/originals/74/f4/56/74f456b7f3a445a18f9d4c85414467e6.jpg" class="img-fluid rounded" alt="crab">
@@ -58,7 +58,7 @@
         </div>
         <hr>
         <div class="post-preview">
-          <a href="post.html">
+          <a href="">
             <div class="row">
                 <div class="col-lg-2">
                     <img src="https://i.pinimg.com/originals/74/f4/56/74f456b7f3a445a18f9d4c85414467e6.jpg" class="img-fluid rounded" alt="crab">
@@ -76,7 +76,7 @@
         </div>
         <hr>
         <div class="post-preview">
-          <a href="post.html">
+          <a href="">
             <div class="row">
                 <div class="col-lg-2">
                     <img src="https://i.pinimg.com/originals/74/f4/56/74f456b7f3a445a18f9d4c85414467e6.jpg" class="img-fluid rounded" alt="crab">
@@ -97,7 +97,7 @@
         </div>
         <hr>
         <div class="post-preview">
-          <a href="post.html">
+          <a href="">
             <div class="row">
                 <div class="col-lg-2">
                     <img src="https://i.pinimg.com/originals/74/f4/56/74f456b7f3a445a18f9d4c85414467e6.jpg" class="img-fluid rounded" alt="crab">
