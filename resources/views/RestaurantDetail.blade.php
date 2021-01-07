@@ -59,6 +59,8 @@
                     <div class="text-danger">Close, opens 7am to 6pm</div>
                     <div class="text-success">Delivery is available</div><br><br><br><br>
                     <a href="/delivery" class="btn btn-outline-success btn-block">Click here for Delivery!</a>
+                    <a href="#" class="btn btn-outline-primary btn-block">Booking Seat Reservation</a>
+                    <a href="#" class="btn btn-outline-secondary btn-block">Restaurant Review</a>
                 </div>
             </div>
         </div>
