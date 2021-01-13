@@ -41,7 +41,7 @@
     <div class="col-lg-2"></div>
     <div class="col-lg-8">
         <div class="row p-2 mt-4">
-            @for($rep=1;$rep<=10;$rep++)
+            @for($rep=1;$rep<=20;$rep++)
             <div class="col-lg-4 p-2">
                 <a href="/restaurant/detail" style="text-decoration: none;">
                     <div class="card p-3 mb-5 bg-white rounded kotak">
